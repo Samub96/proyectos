@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Family
- *
- */
-module Factorial {
-}
